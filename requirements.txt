@@ -1,0 +1,11 @@
+langchain==0.3.2
+langchain-experimental==0.3.2
+langgraph==0.2.34
+langchain-databricks==0.1.0
+python-dotenv==0.21.0
+mlflow==2.16.2
+mlflow-skinny==2.16.2
+tavily-python==0.5.0
+wikipedia==1.4.0
+datasets==3.0.2
+gradio==5.4.0
